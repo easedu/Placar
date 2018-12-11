@@ -1,0 +1,9 @@
+package com.eas.placar.placar.utils
+
+val KEY_EXTRA_TIME_A = "KEY_EXTRA_TIME_A"
+val KEY_EXTRA_TIME_B = "KEY_EXTRA_TIME_B"
+
+val PLACAR_CASA = "PLACAR_CASA"
+val PLACAR_VISITANTE = "PLACAR_VISITANTE"
+
+val TAG = "TAG"

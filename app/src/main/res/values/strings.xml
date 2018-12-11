@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Placar</string>
+    <string name="time_a">TIME A</string>
+    <string name="time_b">TIME B</string>
+    <string name="iniciar_jogo">INICIAR JOGO</string>
+    <string name="novo_jogo">NOVO JOGO</string>
+    <string name="lakers">Lakers</string>
+    <string name="chicago_bulls">Chicago Bulls</string>
+</resources>
